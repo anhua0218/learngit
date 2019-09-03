@@ -1,0 +1,2 @@
+cd F:/DDR3/ipcore_dir/MIG/example_design/sim
+do sim_2.do
